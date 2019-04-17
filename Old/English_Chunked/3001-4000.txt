@@ -19661,4 +19661,3 @@
             (PP (IN of)
               (NP (DT the) (NN potato) (NN belt)))))))
     (. .)))
-

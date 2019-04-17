@@ -15134,4 +15134,3 @@
           (NP (CD four) (NNS months))
           (NP (DT a) (NN year)))))
     (. .)))
-

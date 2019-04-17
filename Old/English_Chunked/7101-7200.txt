@@ -1887,3 +1887,4 @@
           (CC or)
           (ADJP (RB square) (JJ shaped)))))
     (. .)))
+    
