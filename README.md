@@ -8,3 +8,10 @@ Given a Parallel Corpora (Sentence Aligned Corpora), the task is to Generate Syn
   <li>Tanish Lad, 2018114005</li>
   <li>Jashn Arora, 2018114006</li>
 </ul>
+
+## Under the Guidance of:
+<ul>
+    <li>Dipti Mishra Sharma, Head, LTRC, IIIT-H</li>
+    <li>Pruthwik Mishra, IIIT-H</li>
+    <li>Alok Debnath, IIIT-H</li>
+</ul>
