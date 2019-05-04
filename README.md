@@ -18,7 +18,7 @@ This folder contains:
 
 3. Output <br/>
     3.1 The Code-Mixed Hindi and English Chunks as two separate files <br/>
-    3.2 The Code-Mixed English Based and Hindi Based as two separate files
+    3.2 The Code-Mixed English Based and Hindi Based Sentences as two separate files
 
 ### English_Chunked
 This folder contains:
@@ -28,7 +28,7 @@ This folder contains:
 This folder contains:
 1. Codes <br/>
     1.1 Add Head of Each Chunk <br/>
-    1.2 JSON file used to know all the possible tags which can act as head
+    1.2 JSON file used to know all the tags which can possibly act as head
 
 2. Input <br/>
     2.1 English Chunks
